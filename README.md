@@ -1,2 +1,4 @@
 # Journal-entry-app
-A simple CRUD app for managing journal entries
+A simple Java and SpringBoot CRUD app for managing journal entries.
+
+Use Postman to hit APIs for creating, reading, updaing and deleting Journal entries.
